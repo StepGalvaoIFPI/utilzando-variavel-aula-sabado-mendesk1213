@@ -1,1 +1,2 @@
-
+nome = "israelle"
+print(nome) 
